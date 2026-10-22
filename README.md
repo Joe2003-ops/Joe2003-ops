@@ -1,42 +1,21 @@
-# Hi there, I'm Joe Ngururi Nguno 👋
+# 💫 About Me:
+ABOUT ME: JOE NGURURI NGUNO<br><br>Data Science & Software Engineering Professional<br><br>Location: Nairobi, Kenya<br><br><br><br>--------------------------------------------------------------------------------<br><br>SUMMARY<br><br>--------------------------------------------------------------------------------<br><br>I am a Data Science and Software Engineering professional based in Nairobi, Kenya, with a strong foundation in building machine learning pipelines, time-series forecasting models, low-level systems software, and practical AI applications. My work bridges the gap between raw data analysis, scalable backend systems, and real-time observability.<br><br><br><br>Whether engineering memory-optimized architectures in C++, building concurrent CLI engines in Go, or designing Retrieval-Augmented Generation (RAG) pipelines for environmental compliance, I focus on constructing reliable, efficient, and data-driven solutions.<br><br><br><br>--------------------------------------------------------------------------------<br><br>CORE COMPETENCIES & TECHNICAL SKILLS<br><br>--------------------------------------------------------------------------------<br><br>• Programming Languages:<br><br>  - Python, C++, Go, SQL, HTML/CSS, JavaScript<br><br><br><br>• Data Science & Machine Learning:<br><br>  - Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch Geometric, PySpark<br><br>  - Time Series Forecasting (Prophet, Ridge Regression)<br><br>  - Geospatial Analytics (GeoPandas, Folium)<br><br><br><br>• Backend & Systems Engineering:<br><br>  - Streamlit, FastAPI, Cobra CLI, D3.js<br><br>  - Memory-optimized structures & neural network components in low-level C++<br><br><br><br>• DevOps & Tools:<br><br>  - Docker, Dev Containers, WSL2, Git, GitHub Actions, Tableau<br><br><br><br>--------------------------------------------------------------------------------<br><br>KEY PROJECTS & EXPERTISE<br><br>--------------------------------------------------------------------------------<br><br>1. Country-Level CO2 Emissions Forecaster<br><br>   Developed a two-stage time-series model leveraging Prophet and Ridge Regression to forecast emissions data, paired with an interactive Streamlit UI for dynamic scenario analysis.<br><br><br><br>2. EcoSort Waste Management Assistant<br><br>   Engineered a RAG (Retrieval-Augmented Generation) policy and classification system utilizing custom document chunking, embeddings, and structured retrieval mechanisms.<br><br><br><br>3. AI Security Observability & Graph Neural Networks<br><br>   Investigated real-time execution monitoring and threat prevention using PyTorch Geometric, ONNX, and TensorRT runtime optimization.<br><br><br><br>4. Spatial & Public Health Analytics<br><br>   Analyzed outbreak readiness and epidemiological trends through spatial mapping and time-series data visualization using GeoPandas, Folium, and Seaborn.<br><br><br><br>--------------------------------------------------------------------------------<br><br>CONNECT<br><br>--------------------------------------------------------------------------------<br><br>• GitHub: github.com/Joe2003-ops<br><br>• Location: Nairobi, Kenya
 
-**Data Science & Software Engineering Professional** based in Nairobi, Kenya.
 
-I specialize in building end-to-end data pipelines, time series forecasting models, low-level system software, and lightweight AI applications.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Joe2003-ops&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Joe2003-ops&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Joe2003-ops&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Joe2003-ops&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🚀 What I'm Working On
-- 📈 **Time Series & ML Pipelines:** Developed country-level CO₂ emissions forecasting using Prophet and Ridge Regression, deployed via Streamlit.
-- 🛡️ **AI Observability:** Researching real-time AI security monitoring and execution prevention using Graph Neural Networks (PyTorch Geometric, ONNX, TensorRT).
-- ♻️ **RAG Pipelines:** Engineered the **EcoSort** waste classification and policy assistant using custom document chunking and retrieval pipelines.
-- ⚙️ **Low-Level Engineering:** Building neural networks and memory-optimized architectures from scratch in C++.
-- ⚡ **Backend & Systems:** Crafting concurrent CLI tools in Go and interactive spatial workflows with GeoPandas and Folium.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Python, C++, Go, SQL, HTML/CSS, JavaScript |
-| **Data Science & ML** | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch Geometric, PySpark, GeoPandas, Prophet |
-| **Backend & Web** | Streamlit, FastAPI, Cobra CLI, D3.js |
-| **DevOps & Environment** | Docker, Dev Containers, WSL2, Git, GitHub Actions |
-| **Analytics & Viz** | Tableau, Folium, Seaborn, Matplotlib |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Joe2003-ops&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Joe2003-ops&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 Applied Projects Highlights
-
-- **CO₂ Emissions Forecaster:** Two-stage Prophet + Ridge Regression model with interactive scenario planning.
-- **EcoSort Waste Management Assistant:** RAG-driven document processing for waste policy compliance.
-- **Intel Image Classification CNN:** Fine-tuned computer vision pipeline on Kaggle dataset benchmarks.
-- **Outbreak Readiness Analytics:** Spatial and time-series epidemiological exploratory analysis using public health datasets.
-
----
-
-### 📬 Connect with Me
-
-- **GitHub:** [@Joe2003-ops](https://github.com/Joe2003-ops)
-- **Location:** Nairobi, Kenya
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
